@@ -37,6 +37,9 @@ h6{
     bottom: 5%;
     right: 10%;    
   }
+.radio a button{
+color:white;
+}
   .pimg1{
     background-image: url('images/top.jpg');
     min-height: 70%;  
