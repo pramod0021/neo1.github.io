@@ -32,6 +32,11 @@ h6{
     background-attachment: fixed;
     opacity: 0.70;
   }
+.radio{
+    position: absolute;
+    bottom: 5%;
+    right: 10%;    
+  }
   .pimg1{
     background-image: url('images/top.jpg');
     min-height: 70%;  
